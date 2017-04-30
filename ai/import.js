@@ -68,5 +68,5 @@ window.importAI = function (intelligence) {
                 }
             }
         }
-    }, 100)
+    }, 50)
 }

@@ -48,7 +48,7 @@ window.importAI = function importAI (intelligence) {
                 }
             }
         }
-    }, 100)
+    }, 50)
 }
 
 document.addEventListener('DOMContentLoaded', importAI)
